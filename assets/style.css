@@ -1,0 +1,26 @@
+form {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    line-height: 35px;
+}
+
+.btn:hover {
+    padding: 7px;
+}
+
+.btn-primary:hover {
+    background-color: firebrick;
+    color: white;
+
+}
+
+.form-name {
+    display: flex;
+    gap: 20px;
+}
+
+.form-email {
+    display: flex;
+    gap: 20px;
+}
